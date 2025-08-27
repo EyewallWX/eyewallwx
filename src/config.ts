@@ -71,8 +71,8 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "/assets/eyewallwx-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "EyewallWX",
-	bio: "An open-to-all community of weather enthusiasts. We track tropical cyclones and severe weather outbreaks, store archived data, and post weather updates. Feel free to join our Discord server!",
-	links: [
+	bio: "An open-to-all community of weather enthusiasts. We track tropical cyclones and tornado outbreaks, store archived data, and post live updates. Feel free to join our Discord server and follow us on social media!",
+		links: [
 		{
 			name: "Twitter",
 			icon: "fa6-brands:twitter",

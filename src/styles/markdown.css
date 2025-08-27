@@ -118,4 +118,13 @@
         margin: 1em 0;
     }
     
+    figure img{
+        display: block;
+        margin: auto;
+        width: 90%;
+    }
+
+    table{
+        table-layout: fixed;
+    }
 }
