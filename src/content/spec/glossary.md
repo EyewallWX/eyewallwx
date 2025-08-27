@@ -1,14 +1,12 @@
 # Glossary
 
-> ### Table of Contents
-> 1. Tropical Cyclones
->    - [Tier 0](#tier-0)
->    - [Tier 1](#tier-1)
->    - [Tier 2](#tier-2)
->    - [Tier 3](#tier-3)
->    - [Tier 4](#tier-4)
-
-
+> ## Table of Contents
+> - [Tropical Cyclones](#tropical-cyclones)
+>   - [Tier 0](#tier-0)
+>   - [Tier 1](#tier-1)
+>   - [Tier 2](#tier-2)
+>   - [Tier 3](#tier-3)
+>   - [Tier 4](#tier-4)
 
 ## Tropical Cyclones
 

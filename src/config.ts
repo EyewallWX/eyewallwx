@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "EyewallWX",
-	subtitle: "Demo Site",
+	subtitle: "Home",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 300, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/eyewallwx-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "/assets/eyewallwx-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
@@ -69,9 +69,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/eyewallwx-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "/assets/eyewallwx-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "EyewallWX",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	bio: "An open-to-all community of weather enthusiasts. We track tropical cyclones and severe weather outbreaks, store archived data, and post weather updates. Feel free to join our Discord server!",
 	links: [
 		{
 			name: "Twitter",

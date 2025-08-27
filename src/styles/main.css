@@ -154,3 +154,27 @@
 figcaption {
   text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+    div#banner img{
+        content: url('/assets/eyewallwx-banner-mobile.png');
+        height: -1%;
+        object-fit: contain;
+  }
+}
+
+div.markdown-content figure img{
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+div#post-cover img{
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+table{
+    table-layout: fixed;
+}
