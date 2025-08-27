@@ -28,7 +28,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://fuwari.vercel.app/",
+	site: "https://eyewallwx.network",
 	base: "/",
 	trailingSlash: "always",
 
@@ -161,9 +161,6 @@ export default defineConfig({
 	},
 
 	vite: {
-		server: {
-			allowedHosts: ["nnbmeu-ip-109-233-92-24.tunnelmole.net"],
-		},
 		build: {
 			rollupOptions: {
 				onwarn(warning, warn) {
