@@ -29,7 +29,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://gridmouth.github.io",
-	base: "/",
+	base: "/eyewallwx",
 	trailingSlash: "always",
 
 	integrations: [
