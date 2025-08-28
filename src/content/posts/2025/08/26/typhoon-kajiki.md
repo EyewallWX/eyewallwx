@@ -5,6 +5,7 @@ description: Valuable data, closer and description for Typhoon Kajiki 2025
 image: typhoon-kajiki-main.webp
 tags:
   - WPAC
+  - C2
 category: Tropical Cyclones
 ---
 **Typhoon Kajiki** was a moderately strong (category 2) typhoon that impacted northern Vietnam and the Hainan peninsula in late august 2025. The storm originated from the back end of a large gyre, which also produced a weak tropical storm named "Lingling" near Japan. After crossing the northern Philippines, the storm began firing orographically induced convective bursts, which soon developed into a proper low level core with convective bursts reaching -95c, indicative of the explosive potential harbored by the warm (30c) sea surface temps below.
