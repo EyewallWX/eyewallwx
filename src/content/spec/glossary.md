@@ -3,16 +3,16 @@
 > ## Table of Contents 
 > 
 > - Tropical Cyclones 
->   - [Tier 0](#tier-0) 
->   - [Tier 1](#tier-1) 
->   - [Tier 2](#tier-2) 
->   - [Tier 3](#tier-3) 
->   - [Tier 4](#tier-4)
-> # &nbsp;
+>   - [Introduction](#introduction) 
+>   - [Terminology](#terminology)
+>   - [Basic Concepts](#basic-concepts) 
+>   - [In-depth](#in-depth) 
+>   - [Advanced](#advanced) 
+> # &nbsp; 
 
 # Tropical Cyclones 
 
-## Tier 0 
+## Introduction
 
 **In this introductory section you can learn the (over)simplified basics of TCs, where they form and what they need to exist and thrive. Feel free to skip this if you know the extreme basics!**
 
@@ -61,14 +61,15 @@ The SSHWS goes as such:
 - Category 3 (96kt-112kt)
 - Category 4 (113kt-136kt)
 - Category 5 (136+kt)
+
 Other scales exist, but this one is the most often used. Aside from TC strength, cyclones have different names depending on the region where they form. Everywhere they start with Tropical Storm, after which they are called cyclones, typhoons or hurricanes.
-## Tier 1 
+## Terminology
 #### Satellites
 One of the main tools we use for tracking TCs are satellites - we have an array of them in geostationary orbit covering every part of the globe. 
 
 GEOSTATIONARY SATELLITES:
 - GOES 16 and 18: they cover the area from the Central Pacific to western Europe, and are the main satellites we use in tracking hurricanes in the Central and Eastern Pacific, North Atlantic, as well as rare South Pacific and South Atlantic cyclones.
-- HIMAWARI-8: This is a Japanese satellite used to track storms in the Western Pacific as well as parts of the Indian and South Pacific basins.
+- HIMAWARI-8: This is a Japanese satellite used to track storms in the Western Pacific as well as parts of the Indian and South-East Pacific basins.
 - METEOSAT-11: A very low resolution imagery satellite that covers the Indian ocean and Europe. It has now been replaced by MTG (Meteosat-12), however it is still operational in orbit.
 - MTG/METEOSAT-12: A new generation European satellite used to cover Africa, Europe and the Indian ocean. It also covers parts of the Northern Atlantic.
 
@@ -86,22 +87,22 @@ Attached below are example images from GOES, MTG, AMSR2, SSMI, SAR and MODIS, in
 | ![](images/tier1/satellites%204.webp)             | ![Source: star.nesedis/NOAA](images/tier1/satellites%205.webp) | ![Source: Navy.mil/MODIS](images/tier1/satellites%206.webp) |
 |                                                  |                                                               |                                                            |
 #### Basin abbreviations 
-NATL - North Atlantic 
-SATL - South Atlantic 
-MED - Mediterranean 
-NIO - North Indian Ocean 
-SWIO - South West Indian Ocean 
-AUS - Australian region 
-WPAC - Western Pacific 
-SPAC - Southern Pacific 
-CPAC - Central Pacific 
-EPAC - Eastern Pacific
+- **NATL** - North Atlantic 
+- **SATL** - South Atlantic 
+- **MED** - Mediterranean 
+- **NIO** - North Indian Ocean 
+- **SWIO** - South West Indian Ocean 
+- **AUS** - Australian region 
+- **WPAC** - Western Pacific 
+- **SPAC** - Southern Pacific 
+- **CPAC** - Central Pacific 
+- **EPAC** - Eastern Pacific
 
 #### RSMC - Regional specialized meteorological center
 These organizations are responsible for issuing warnings and "cones" - track forecasts for TCs with a margin of error. There are currently 11 RSMCs in the world, shown in the map below. Missing from the map is JTWC and PASAGA.
 
 JTWC: Joint typhoon warning center. The JTWC is a US navy led project that forecasts typhoons and cyclones in the Indian and pacific ocean using the Saffir Simpson wind scale (category 1-5)
-PASAGA: Philippine area of responsibility. Local RSMC that gives second names on top of the JMA RSMCs names. Operates in and around the Philippine islands.
+PASAGA: Philippine Atmospheric, Geophysical and Astronomical Services Administration. Local RSMC that gives second names on top of the JMA RSMCs names. Operates in and around the Philippine islands.
 
 | ![Source: NHC](images/tier1/RSMC.webp) |
 | ------------------------------------- |
@@ -199,6 +200,14 @@ Attached below is an example of an extreme Saharan dust plume in the SAL.
 | ![A SAL plume off the coast of Africa in 2000. Source: NASA](images/tier1/SAL.webp) |
 | ---------------------------------------------------------------------------------- |
 
+#### Zonal flow
+Zonal flow is simply flow that goes from west to east. Zonal flow is also characterised by jet streaks (areas of enhanced/stronger flow) moving through periodically. This specific kind of wind flow is used to describe a stable, sheared pattern which is in conducive to specific kinds of weather such as cyclones or strong thunderstorms.
+
+Attached below is an example of zonal flow over Europe at 250mb (jet stream) and 500mb (mid level) Source: tropicaltidbits.com
+
+| ![](images/tier1/Zonal%20flow%201.webp) | ![](images/tier1/Zonal%20flow%202.webp) |
+| -------------------------------------- | -------------------------------------- |
+
 #### Meridional flow
 Contrary to the zonal flow described earlier, a meridional flow exhibits a highly unstable jet stream dominated by large troughs and ridges. These environments are common with a weak polar vortex in the winter, as well as spring and autumn. In tropical meteorology, troughs pull storms towards themselves as they accelerate with the flow, whilst ridges push storms away along their 500mb counterparts. Meridional flow is also the most favorable flow type for severe weather, as the troughs move unstable air masses northward where they can be sheared by non tropical cyclones/low pressure systems.
 
@@ -206,13 +215,7 @@ Attached below is an example of meridional flow over Europe, with a well pronoun
 
 | ![](images/tier1/Meridonal%20flow%201.webp) | ![](images/tier1/Meridonal%20flow%202.webp) |
 | ------------------------------------------ | ------------------------------------------ |
-#### Zonal flow
-Zonal flow is simply flow that goes from west to east in the northern hemisphere and east to west in the southern hemisphere. Zonal flow is also characterised by jet streaks (areas of enhanced/stronger flow) moving through periodically. This specific kind of wind flow is used to describe a stable, sheared pattern which is in conducive to specific kinds of weather such as cyclones or strong thunderstorms.
 
-Attached below is an example of zonal flow over Europe at 250mb (jet stream) and 500mb (mid level) Source: tropicaltidbits.com
-
-| ![](images/tier1/Zonal%20flow%201.webp) | ![](images/tier1/Zonal%20flow%202.webp) |
-| -------------------------------------- | -------------------------------------- |
 #### ASCAT - Advanced Scatterometer
 A series of instruments which scan the ocean surface in order to determine wind velocity and direction. This data comes in handy to show and monitor the wind structure and strength of developing disturbances and nascent tropical cyclones. However, ASCAT resolution limits the instrument for stronger systems, where it becomes more helpful to determine wind field size. ASCAT data is displayed in maps with wind barbs that follow a colour scale to show a quick way to differentiate areas with varying wind speeds. 
 
@@ -260,7 +263,7 @@ Attached below is an IR satellite video showing the explosive intensification of
 | ![Explosive intensification of Hurricane Milton 2024. Source: NOAA](images/tier1/ri.webp) |
 | ---------------------------------------------------------------------------------------- |
 
-## Tier 2 
+## Basic Concepts 
 #### Reconnaissance Aircraft Data - Recon
 Recon data is the most important and valuable tool we have for gauging a storm's true intensity. NOAA's Hurricane Hunter aircraft flies into the center of a storm conducing passes through it's core and outer bands, deploying dropsondes and producing vortex data messages. What data can we obtain from recon?
 - Very accurate measurements of the pressure inside the eye
@@ -406,7 +409,7 @@ Attached below is an example of the stadium effect from inside the eye of Typhoo
 | ![Source: hko.gov.hk](images/tier2/stadium%20effect.webp) |
 | -------------------------------------------------------- |
 
-## Tier 3 
+## In-depth 
 #### TUTT
 Standing for Tropical Upper Tropospheric Trough, is a trough located around the ~200mb level, its presence is often detrimental for tropical cyclone development as it produces higher values of vertical wind shear. However, depending on placement, it can also aid TC genesis or improve the upper level pattern of a pre-existing TC, enhancing a rising motion and better outflow. 
 
@@ -531,7 +534,7 @@ Attached below are examples of annotated outflow channels for each common patter
 | ![Hurricane Irma 2017](images/tier3/outflow-cirrus-shield.webp)  | ![Hurricane Ian 2022](images/tier3/outflow-jet-interaction.webp) |
 |                                                                 |                                                                 |
 
-## Tier 4
+## Advanced
 
 #### Feeding Band/Feeder Band
 A feeding band is a rare type of EWRC feature in which the outer eyewall contains a feeding band that causes energy to flow to the decaying inner eyewall, allowing it to maintain for longer. This feature is usually only evident on radar as it is microscale, and dissipates fairly quickly, most times persisting for a few hours at max.
