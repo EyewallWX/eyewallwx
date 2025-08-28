@@ -24,7 +24,7 @@ Attached below is an example of an ULAC affecting a TC on a computer model graph
 
 2. Positive manner (outflow enhancing)
 
-| ![Source: tropicaltidbits.com](images/tier3/ULAC-1.png) | ![Source: tropicaltidbits.com](images/tier3/ULAC-2.png) |
+| ![Source: tropicaltidbits.com](images/tier3/ULAC-1.webp) | ![Source: tropicaltidbits.com](images/tier3/ULAC-2.webp) |
 | ------------------------------------------------------- | ------------------------------------------------------- |
 
 #### Westerly wind burst
@@ -33,7 +33,7 @@ WWBs (Westerly wind bursts) are phenomena that occur around the equator. They fo
 
 Attached below is an example of dual TCs resulting from a WWB (Mocha and Fabien 2023) with the area where the WWB occurred marked with the arrow. The second image shows a world wide hollomover model image, with the enhancement of zonal flow marked in the circle around September 15th.
 
-| ![Source: zoom.earth](images/tier3/wwb1.png) | ![Source: weatherbell.com](images/tier3/wwb2.png) |
+| ![Source: zoom.earth](images/tier3/wwb1.webp) | ![Source: weatherbell.com](images/tier3/wwb2.webp) |
 | -------------------------------------------- | ------------------------------------------------- |
 #### Microwave imagery
 
@@ -47,7 +47,7 @@ Microwave imagery, also known as "MW" or "Passes" (stemming from satellite passe
 
 Attached below are 3 example images of typhoon Man-Yi (2024) in each of the wavelengths described above using the AMSR2 instrument
 
-| ![](images/tier3/mw1.png) | ![Source: nrlmry.navy.mil](images/tier3/mw2.png) | ![](images/tier3/mw3.png) |
+| ![](images/tier3/mw1.webp) | ![Source: nrlmry.navy.mil](images/tier3/mw2.webp) | ![](images/tier3/mw3.webp) |
 | ------------------------- | ------------------------------------------------ | ------------------------- |
 
 #### Storm band
@@ -56,7 +56,7 @@ A large area of storms disjointed from the center of the storm that temporarily 
 
 Attached below is an image of tropical storm Kristy (2024) exhibiting a storm band to the west of its center
 
-| ![Source: tropicaltidbits.com](images/tier3/storm_band.png) |
+| ![Source: tropicaltidbits.com](images/tier3/storm_band.webp) |
 | ----------------------------------------------------------- |
 
 #### Gravity waves
@@ -73,7 +73,7 @@ Gravity waves in a tropical cyclone are a sign of extreme upward movements in th
 
 Attached below are examples of the three most common ways in which gravity waves appear in cyclones.
 
-| ![Gravity waves in the upper levels of Hurricane Sally 2020. Source: CIRA](images/tier3/gravity%20waves%201.png) | ![Large gravity wave emanating from the center of Typhoon Kajiki 2025. Source: dapiya.top AI VIS tool](images/tier3/gravity%20wave1.gif) | ![Low amplitude gravity waves propagating northward from the center of Cyclone Vince 2025. Source: cyclonicwx.com](images/tier3/gravitywaves3.gif) |
+| ![Gravity waves in the upper levels of Hurricane Sally 2020. Source: CIRA](images/tier3/gravity%20waves%201.webp) | ![Large gravity wave emanating from the center of Typhoon Kajiki 2025. Source: dapiya.top AI VIS tool](images/tier3/gravity%20wave1.webp) | ![Low amplitude gravity waves propagating northward from the center of Cyclone Vince 2025. Source: cyclonicwx.com](images/tier3/gravitywaves3.webp) |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### BOE - Brown Ocean Effect
@@ -82,7 +82,7 @@ Usually, storms weaken after landfall. However, in rare cases where the soil is 
 
 Attached below is an extreme case of BOE, with cyclone Kelvin (2018) strengthening and clearing an eye deep inland in the dry terrain of Australia. Note the large size of the storm producing rain well ahead of the CDO - one of the causes of BOE
 
-| ![Cyclone Kevin 2018 Source: JMA](images/tier3/boe.gif) |
+| ![Cyclone Kevin 2018 Source: JMA](images/tier3/boe.webp) |
 | ------------------------------------------ |
 
 #### Mesovoritices
@@ -91,7 +91,7 @@ A mesovortex is small sub vortex on the inner edge of the eyewall. They are fair
 
 Attached below is a satellite video showing mesovorticies rapidly rotating in the eye of Typhoon Ampil, as well as satellite imagery showing the mesovortex filled eye of Cyclone Chido
 
-| ![Typhoon Ampil. Source: JMA](images/tier3/mesovorticies-1.gif) | ![Cyclone Chido. Source: MODIS](images/tier3/mesovorticies-2.png) | ![Radar image showing mesovorticies in the eye of Hurricane Harvey 2017. Source: blog.ametsoc.org](images/tier3/mesovoriticies3.webp) |
+| ![Typhoon Ampil. Source: JMA](images/tier3/mesovorticies-1.webp) | ![Cyclone Chido. Source: MODIS](images/tier3/mesovorticies-2.webp) | ![Radar image showing mesovorticies in the eye of Hurricane Harvey 2017. Source: blog.ametsoc.org](images/tier3/mesovoriticies3.webp) |
 | --------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -101,7 +101,7 @@ The fujiwhara effect is a rare phenomena that occurs only when two storms are wi
 
 Attached below is an example of cyclone Seroja undergoing a fujiwhara interaction with cyclone Odette (2021). The video is sped up multiple times.
 
-| ![Cyclone Seroja and cyclone Odette interacting. Odette promptly dissipates due to shear from stronger Seroja. Source: unknown](images/tier3/fujiwhara.gif) |
+| ![Cyclone Seroja and cyclone Odette interacting. Odette promptly dissipates due to shear from stronger Seroja. Source: unknown](images/tier3/fujiwhara.webp) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Eyewall lightning
@@ -110,7 +110,7 @@ Eyewall lightning is simply the process of lightning occurring in the eyewall of
 
 Attached below is a GIF showing the extreme eyewall lightning in Hurricane Milton (2024)
 
-| ![Lightning in the eyewall and outer bands of Hurricane Milton 2024. Source: meteologix.com](images/tier3/eyewall-lightning.gif) |
+| ![Lightning in the eyewall and outer bands of Hurricane Milton 2024. Source: meteologix.com](images/tier3/eyewall-lightning.webp) |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Eyewall hail
@@ -119,7 +119,7 @@ In extreme cases (strong category 5 storms), cyclones can exhibit hail in their 
 
 Attached below is an example of a Hurricane Hunter aircraft note about hail in the eyewall of Hurricane Milton (2024)
 
-| ![Recon aircraft noting hail in the eyewall of Hurricane Milton 2024. Source: NWS/NOAA/NHC](images/tier3/eyewall-hail.png) |
+| ![Recon aircraft noting hail in the eyewall of Hurricane Milton 2024. Source: NWS/NOAA/NHC](images/tier3/eyewall-hail.webp) |
 | -------------------------------------------------------------------------------------------------------------------------- |
 
 #### Outflow channels
@@ -146,9 +146,9 @@ Here they are desctribed below:
 
 Attached below are examples of annotated outflow channels for each common pattern in order. (Radial, dual, cirrus, jet) Source of all images: NOAA
 
-| ![Tropical Storm Gonzalo 2020](images/tier3/outflow-radial.png) | ![Hurricane Milton 2024](images/tier3/outflow-dual.png)         |
+| ![Tropical Storm Gonzalo 2020](images/tier3/outflow-radial.webp) | ![Hurricane Milton 2024](images/tier3/outflow-dual.webp)         |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Hurricane Irma 2017](images/tier3/outflow-cirrus-shield.png)  | ![Hurricane Ian 2022](images/tier3/outflow-jet-interaction.png) |
+| ![Hurricane Irma 2017](images/tier3/outflow-cirrus-shield.webp)  | ![Hurricane Ian 2022](images/tier3/outflow-jet-interaction.webp) |
 
 ### Tier 4
 
