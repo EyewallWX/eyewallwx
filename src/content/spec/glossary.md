@@ -84,7 +84,7 @@ Gravity waves in a tropical cyclone are a sign of extreme upward movements in th
 
 Attached below are examples of the three most common ways in which gravity waves appear in cyclones.
 
-| ![Gravity waves in the upper levels of Hurricane Sally 2020. Source: CIRA](images/tier3/gravity%20waves%201.webp) | ![Large gravity wave emanating from the center of Typhoon Kajiki 2025. Source: dapiya.top AI VIS tool](images/tier3/gravity%20wave1.webp) | ![Low amplitude gravity waves propagating northward from the center of Cyclone Vince 2025. Source: cyclonicwx.com](gravitywaves3.webp) |
+| ![Gravity waves in the upper levels of Hurricane Sally 2020. Source: CIRA](images/tier3/gravity%20waves%201.webp) | ![Large gravity wave emanating from the center of Typhoon Kajiki 2025. Source: dapiya.top AI VIS tool](images/tier3/gravity%20wave1.webp) | ![Low amplitude gravity waves propagating northward from the center of Cyclone Vince 2025. Source: cyclonicwx.com](images/tier3/gravitywaves3.webp) |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### BOE - Brown Ocean Effect
