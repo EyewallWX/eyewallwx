@@ -21,11 +21,6 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-.vercel
-
-bun.lockb
-yarn.lock
-
 # ide
 .idea
 *.iml

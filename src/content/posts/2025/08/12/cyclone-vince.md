@@ -38,6 +38,7 @@ By the following day the storm was well in the process of rapid intensification.
 | ![Vince in enhanced VIS imagery. Source: dapiya.top](8-vince.webp) | ![Vince intensifying in OTT imagery. Source: dapiya.top](9-vince.webp)                                                                |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Vince in RGB imagery. Source: dapiya.top](10-vince.webp)         | ![Vince's core on February 6th, showing minimal banding around a somewhat asymmetric core. Source: nrlmry.navy.mil](11-vince-mw.webp) |
+|                                                                    |                                                                                                                                       |
 
 By the evening, Vince had intensified further to a powerful high-end category 4 equivalent cyclone. Advanced Dvorak Technique algorithms analyzed the storm to T6.9, on the border of category 5 intensity. Satellite imagery closely monitored Vince, showing an almost closed ring of -80C cloud tops, a characteristic only seen in the strongest of storms.
 
@@ -53,6 +54,7 @@ Attached below is a collage of gifs showing Vince at its peak in infrared, as we
 | ![](13-vince-ir.webp)  | ![](14-vince-rbtop.webp)  |
 | ---------------------- | ------------------------- |
 | ![](15-vince-vis.webp) | ![](16-vince-vis-bw.webp) |
+|                        |                           |
 
 Vince's peak continued until the early hours of February 8th, during which another eyewall replacement cycle occurred. Despite its annular structure a rain band managed to wrap around Vince's eye, choking it out and beginning an EWRC. The cycle wrapped up fairly quickly, and soon enough the storm re-intensified, however not as severely as during its VITC peak. 
 
@@ -61,8 +63,9 @@ As per usual with EWRCs, the eye of Vince expanded, as well as its windfield, wh
 Attached below is a collage of images taken around midday on February 9th. All images sourced from dapiya.top
 
 | ![](17-vince-evis.webp)    | ![](18-vince-rgb.webp) |
-| ------------------------- | --------------------- |
+| -------------------------- | ---------------------- |
 | ![](19-vince-sanwich.webp) | ![](20-vince-ott.webp) |
+|                            |                        |
 
 The storm's post EWRC peak lasted about 12 hours before its final weakening trend began. On February 10th, the eye slowly became more ragged as the CDO warmed and de-organised. The storm's core began bursting convection instead of firing a continuous ring of thunderstorms, a common sign of a storm's approaching demise. 
 Moreover, Vince's outflow also began to produce cirrus plumes in bursts compared to it's previously well established anticyclonic cirrus shield. 
@@ -78,5 +81,6 @@ After a long trek across the southern Indian ocean Vince met its demise on Febru
 | :-------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 |        ![Water vapor imagery of Cyclone Vince during its maximum peak intensity. Source: tropicaltidbits.com](25-wv.webp)         | ![Water vapor imagery of Cyclone Vince during its 4th peak. Source: cyclonicwx.com](26-wv.webp)            | ![Cyclone Vince connected by cloud cover to a nearby non tropical low pressure system. Source: zoom.earth](27-vince.webp) |
 |                                 ![Vince during its 135kt peak. Source: dapiya.top](28-vince.webp)                                 | ![Microwave image showing Vince's core on February 8th. Source: nrlmry.navy.mil](30-vince-mw.webp)         | ![Vince rapidly intensifying on February 6th. Source: tropicaltidbits.com](31-vince-intensification.webp)                 |
+
 
 
