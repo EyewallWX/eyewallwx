@@ -6,3 +6,9 @@ Our main goal is the archive of valuable meteorological data, such as satellite 
 We’re actively tracking tropical cyclones and severe weather events in threads (special channels) on the server whenever a weather event notable enough to archive occurs. After the cyclone dissipates or the severe weather outbreak is over, we archive said threads (so any member can access them at any time) and write closures to summarise the event. These closures, written by our moderation team can be found here in the form of blogposts in the "archive" section, where you can filter storms by basin and year.  
 
 Our Discord server is focused on tropical cyclone and severe weather tracking, however we offer channels for space weather, geology and other weather related topics. In other words, our Discord is a place where you can casually talk with other people sharing the same interests about various sciences (although the main topic is, of course, meteorology), share your photographs and learn more about what fascinates you. Learning is our primary driver, and even if you are new to the field, we hope to see you on the server!
+
+For contact: [eyewallwx@gmail.com](mailto:eyewallwx@gmail.com)
+
+:::note
+We are not affiliated with The Eyewall! (Check them out though, they do great weather reports!)
+:::
