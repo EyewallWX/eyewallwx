@@ -172,7 +172,7 @@ Convective bursts are simply large bursts of cold, deep convection firing near t
 
 Attached below are examples of CBs firing in multiple types of imagery from typhoon Kajiki.
 
-| ![-95c convective burst in Typhoon Kajiki 2025. Source: cyclonicwx.com](images/tier1/burst.webp) | ![Gravity wave emanating from a large burst in Typhoon Kajiki 2025. Source: dapiya.top AI VIS](images/tier1/gravity%20wave.webp) |
+| ![-95c convective burst in Typhoon Kajiki 2025. Source: cyclonicwx.com](images/tier1/burst.webp) | ![Gravity wave emanating from a large burst in Typhoon Kajiki 2025. Source: dapiya.top AI VIS](images/tier1/gravitywave.webp) |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 
 
