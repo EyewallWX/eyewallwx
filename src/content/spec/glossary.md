@@ -95,7 +95,7 @@ Usually, storms weaken after landfall. However, in rare cases where the soil is 
 
 Attached below is an extreme case of BOE, with cyclone Kelvin (2018) strengthening and clearing an eye deep inland in the dry terrain of Australia. Note the large size of the storm producing rain well ahead of the CDO - one of the causes of BOE
 
-![Cyclone Kevin 2018 Source: JMA](boe.webp)
+![Cyclone Kevin 2018 Source: JMA](images/tier3/boe.webp)
 
 #### Mesovoritices
 
