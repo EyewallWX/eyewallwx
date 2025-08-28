@@ -118,13 +118,18 @@
         margin: 1em 0;
     }
     
-    figure img{
+    figure img {
         display: block;
         margin: auto;
         width: 90%;
     }
 
-    table{
+    table {
         table-layout: fixed;
     }
+    
+    th {
+        font-weight: normal;
+    }
+
 }
