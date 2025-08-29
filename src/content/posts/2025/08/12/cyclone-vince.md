@@ -75,7 +75,7 @@ Moreover, Vince's outflow also began to produce cirrus plumes in bursts compared
 
 After a long trek across the southern Indian ocean Vince met its demise on February 11th. As shear picked up, sea surface temperatures dropped and outflow worsened the storm degraded into an extratropical cyclone. Soon thereafter Vince's non tropical remnant got scooped up by a nearby trough, marking its dissipation. 
 
-## Gallery of valuable data, imagery and extra stuff.
+## Gallery of valuable data, imagery and extra stuff
 
 | ![Model data ensemble from February 2nd showing Vince's estimated intensity by NWP models. Source: cyclonicwx.com](22-model.webp) | ![SAR pass from the early morning hours of February 8th displaying 135kt winds. Source: NOAA](23-SAR.webp) | ![Graph of SAR data from the early morning of February 8th showing 135kt winds. Source: NOAA](24-sar.webp)                |
 | :-------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

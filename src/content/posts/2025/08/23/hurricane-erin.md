@@ -52,7 +52,7 @@ During its lifespan, Hurricane Erin broke a couple records. Most notably, it had
 | ![Record setting image of Erin during it's category 5 peak. Water vapor temperature in the eye at the time reached -8.05C. Source: cyclonicwx.com](13-erin-record-wv.webp) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-#### Gallery of valuable data, imagery and extra stuff.
+## Gallery of valuable data, imagery and extra stuff
 
 | ![Recon data from Erin's first peak showing 170kt winds. Source: tropicaltidbits.com](recon-c5.webp)                               | ![Comparison between expected model intensities of Erin and it's actual intensity. Source: twitter.com](14-erin-verification.webp) | ![Microwave imagery taken around Erin's peak showing its core. Source: science.nrlmry.navy.mil](10-erin-mw.webp) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
