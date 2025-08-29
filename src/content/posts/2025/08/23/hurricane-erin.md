@@ -15,10 +15,8 @@ Category 5 Hurricane Erin was a powerful tropical cyclone which travelled the At
 
 Erin originated from a tropical wave which emerged off the coast of Africa on August 8th. The wave moved northwestward and passed through Cabo Verde Islands, causing severe flooding and killing at least 9. Soon after that, it developed a closed circulation and attained gale-force winds, officially becoming Tropical Storm Erin on August 11th. The next day, however, most of its convection disappeared, leaving the storm's LLC exposed and weenies disappointed. Thankfully for the weenies, Erin soon managed to recover and continued westward in the MDR as a weak tropical storm.
 
-
 | ![First issued cone for Hurricane Erin. Source: NHC](1-erin-cone.webp) | ![Highly disorganized Erin on August 12th. Source: tropicaltidbits.com](5-erin-weak.webp) |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
 
 As SSTs and OHC gradually increased, Erin reorganized and became a compact tropical storm. It traversed the tropical in this state for about 2 days, after which Erin began to intensify and became the season's first hurricane on August 15th.
 
@@ -35,6 +33,7 @@ It then began an EWRC and, at the same time, wind shear increased - this caused 
 
 | ![Erin's second peak in infrared imagery. Source: tropicaltidbits.com](16-erin-second-peak.webp) | ![Erin's second peak in water vapor imagery. Source: cyclonicwx.com](17-erin-second-peak-wv.webp) |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+
 After reaching its secondary peak intensity at 120kt/933mb, Erin got sheared again and weakened to a low-end Category 2 hurricane, possessing an abysmal IR presentation, albeit keeping an unusually low pressure due to its pretty large size and PV+ anomaly. 
 
 | ![Visible image of a weaker Erin, Source: dapiya.top](20-erin-weak.webp) | ![Recon data showing Erin as a weaker storm with a central pressure of 961mb. Source: tropicaltidbits.com](21-erin-recon.webp) |
