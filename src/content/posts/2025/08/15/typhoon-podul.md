@@ -34,6 +34,7 @@ Even still, microwave imagery showed that Podul exhibited an open mid level core
 | ![Podul intensifying on its approach to Taiwan. Source: tropicaltidbits.com](9-podul-eye.webp)                                                  | ![Radar loop of the typhoon before, during and after landfall. Source: cyclonicwx.com](22-podul-radar.webp) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | ![Mid level microwave pass in which the storm exhibits an open eyewall to its north. Source: science.nrlmry.navy.mil](11-podul-mid-levle.webp) | ![Podul at its peak right before landfall. Source: cyclonicwx,com](14-podul-peak.webp)                      |
+
 After re-emerging in the Strait of Taiwan the storm remained disorganized, only firing strong, stationary bursts on its southeastern flank. Soon thereafter, Podul made its final landfall in China and dissipated inland shortly after.
 
 #### Gallery of valuable data, imagery and extra stuff.
