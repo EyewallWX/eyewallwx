@@ -25,7 +25,7 @@ Danas would quickly consolidate and undergo rapid intensification, achieving typ
 | ![Visible satellite loop showcasing Danas rapidly clearing an eye on its approach to Taiwan. Source: tropicaltidbits.com](11-danas-ri.webp) | ![Radar image taken not long before Danas' first landfall in Taiwan, in which the storm exhibits a powerful core. Source:cwa.gov.tw](14-danas-radar.webp) |
 |                                                                                                                                            |                                                                                                                                                          |
 
-On July 6th the strong typhoon would make landfall in the central-western portion of Taiwan, marking the first typhoon to do so since Wayne in 1986. The storm made its impact known to local residents as unusually strong winds for a storm of its strength battered the island from an unusual direction. 
+On July 6th the strong typhoon would make landfall in the central-western portion of Taiwan, marking the first typhoon to do so since Wayne in 1986. The storm made its impact known to local residents as atypically powerful winds for a storm of its strength battered the island from an unusual direction.
 
 | ![Typhoon Danas making landfall in the south western portions of Taiwan. Source: tropicaltidbits.com](12-danas-landfall.webp) | ![Enhanced visible image showing Danas' clear eye. Source: weather-models.info](9-danas-eye.webp) |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
