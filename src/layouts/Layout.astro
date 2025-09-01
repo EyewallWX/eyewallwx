@@ -534,10 +534,6 @@ function createPhotoSwipe() {
 		doubleTapAction: 'zoom',
 	})
 
-	lightbox.addFilter('numItems', (numItems) => {
-		return 1000;
-	});
-
 	lightbox.addFilter("domItemData", (itemData, element) => {
 		if (element instanceof HTMLImageElement) {
 			itemData.src = element.src
