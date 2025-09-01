@@ -13,7 +13,7 @@ Originating from an extremely large disturbance in the Philippines sea during la
 | ![The disturbance that spawned Danas in late June 2025. Source: meteologix.com](0-danas-disturbance.webp) |
 | -------------------------------------------------------------------------------------------------------- |
 
-The disturbance developed vigorous deep convection while establishing a nice outflow pattern, and by July 4th it would get classified by JMA and JTWC, receiving the name Danas soon after. An ASCAT pass at this time showed 
+The disturbance developed vigorous deep convection while establishing a decent outflow pattern, and by July 4th it had been classified by JMA and JTWC, receiving the name Danas. An ASCAT pass at this time showed ~30kt winds encircling the storm's center, although these winds would not fully wrap for a while.
 
 | ![Danas intensifying over the South China Sea. Source: cyclonicwx.com](1-danas-formation.webp) | ![ASCAT pass taken around the end of the gif, showing Danas with a well defined albeit asymmetric core. Source: manati.star.nesdis.noaa.gov](5-danas-ascat.webp) |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
