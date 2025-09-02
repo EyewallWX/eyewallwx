@@ -20,7 +20,7 @@ The cyclone had positioned itself in the south eastern quadrant of an upper leve
 
 Despite heavy shear, Krosa would continuously fire deep convective bursts, mainly thanks to the ample upper level divergence and the broadness of the low pressure area that the storm was enveloped in, allowing for easier ascent of air in and around the cyclone. 
 
-Despite being fairly weak - harboring winds of around 50 to 55 knots - the storm's wind field was unusually large, once again due to the wide monsoonal region of convection the storm was positioned in.
+In spite of being fairly weak - harboring winds of around 50 to 55 knots - the storm's wind field was unusually large, once again due to the wide monsoonal region of convection the storm was enveloped in.
 
 | ![ASCAT pass showcasing Krosa's broad windfield. Source: manati.star.nesdis.noaa.gov](1-krosa-ascat.webp) | ![Krosa slowly organizing late on July 26th. Source: tropicaltidbits.com](2-krosa-ir.webp) |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
