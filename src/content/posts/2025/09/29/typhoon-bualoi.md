@@ -2,7 +2,7 @@
 title: Typhoon Bualoi
 published: 2025-09-29
 description: Bualoi was a sloppy tropical cyclone that traversed the South China Sea in late September of 2025, which caused immense economic damage in Vietnam
-image: bualoi-main
+image: bualoi-main.webp
 tags:
   - WPAC
   - C2
