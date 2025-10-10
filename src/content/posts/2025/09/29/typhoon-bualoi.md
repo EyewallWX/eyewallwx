@@ -12,7 +12,7 @@ Bualoi formed on the back (east) side of a large monsoonal gyre/trough, which ea
 
 Soon after becoming an invest, the vortex began drifting westward towards the Philippines. Models originally expected it to rapidly intensify before coming ashore, however this did not pan out, and the storm became a CCC (Central cold convection) "blob", a disorganized tower of convection without much structure. 
 
-| ![Bualoi soon after forming. Source: tropicaltidbits.com](1-bualoi-tc.webp) | ![Bualoi beginning to build a CCC. Source: tropicaltidbits.com](2-bualoi.webp.webp) |
+| ![Bualoi soon after forming. Source: tropicaltidbits.com](1-bualoi-tc.webp) | ![Bualoi beginning to build a CCC. Source: tropicaltidbits.com](2-bualoi.webp) |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
 Due to the extremely anomalous oceanic heat content, as well as sea surface temperatures beneath, the convection in Bualoi's CCC was extremely tall and cold, being as cold as -98.5C at some points, while typical TC cloud top temperatures hover around 70-80C.
@@ -26,7 +26,7 @@ The storm itself had been designated a typhoon soon after crossing into the Sout
 
 | ![Bualoi soon after leaving the Philippines. Source: cyclonicwx.com](5-bualoi-blob-2.webp) | ![Initial forecast for Bualoi, with a 75kt peak. Source: JTWC](6-bualoi-jtwc.webp)                                    |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![Bualoi slowly organizing. Source: cyclonicwx.com](7-bualoi.webp.webp)                     | ![Microwave pass of Bualoi with some (very) weakly curved banding. Source: science.nrlmry.navy.mil](8-bualoi-mw.webp) |
+| ![Bualoi slowly organizing. Source: cyclonicwx.com](7-bualoi.webp)                     | ![Microwave pass of Bualoi with some (very) weakly curved banding. Source: science.nrlmry.navy.mil](8-bualoi-mw.webp) |
 |                                                                                           |                                                                                                                      |
 
 Not much changed for a while - Bualoi just looked sloppy on satellite whilst slowly drifting westward, however a microwave pass from mid day on the 27th showed that the storm had indeed formed a pretty decent core. This would allow the typhoon to strengthen once wind shear lessened.
