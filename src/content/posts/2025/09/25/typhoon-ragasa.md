@@ -40,7 +40,7 @@ Microwave data supported this, as one banded area confined to the south eastern 
 
 | ![Ragasa's CDO/CCC boiling with force. Source: tropicaltidbits.com](8-ragasa-ir.webp)       | ![Low level microwave pass showing the localized area of convection to the SE of the eye feature. Source: science.nrlmry.navy.mil](9-ragasa-mw.webp) |
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Ragasa exhibiting -93C cloud top temperatures. Source: cyclonicwx.com](10-ragasa-IR.webp) | ![Basin wide view, showing the incredible size of Ragasa. Source: cyclonicwx.com](11-ragasa.webp)                                                 |
+| ![Ragasa exhibiting -93C cloud top temperatures. Source: cyclonicwx.com](10-ragasa-IR.webp) | ![Basin wide view, showing the incredible size of Ragasa. Source: cyclonicwx.com](11-ragasa-gif.webp)                                                 |
 |                                                                                            |                                                                                                                                                      |
 
 Later in the day, Ragasa's CCC began moving farther northward, as well as curling around the LLC of the storm. As the CCC wrapped around its eastern and northern quadrants, the typhoon experienced a convective collapse, in which the CDO rapidly warmed as sinking motion overtook the rising air.
